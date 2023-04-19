@@ -8,8 +8,11 @@
   },
   "keywords": [
     "SASS",
-    "GULP"
+    "Gulp"
   ],
   "author": "Alex",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.62.0"
+  }
 }
